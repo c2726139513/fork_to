@@ -1,0 +1,5 @@
+https://github.com/openwrt/openwrt.git openwrt.git
+https://github.com/coolsnowwolf/lede.git lede.git
+https://github.com/openwrt/packages.git packages.git
+https://github.com/openwrt/luci.git luci.git
+https://github.com/openwrt-routing/packages.git routing.git
